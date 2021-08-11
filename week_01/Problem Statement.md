@@ -1,4 +1,4 @@
-# Week 00: 
+# Week 01: 
 
 > # Linear Search
 
